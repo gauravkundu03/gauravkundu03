@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Gaurav 👋</h1>
-<h3 align="center">Aspiring Software Developer · India</h3>
+<h1 align="center">Hi, I'm Gourab 👋</h1>
+<h3 align="center">Computer Science Engineering Student · Presidency University, Bengaluru</h3>
 
 <p align="center">
   I build practical software and I'm constantly learning.<br/>
@@ -11,7 +11,7 @@
 
 ### 🛠 Tech Stack
 
-**Languages:** Java · JavaScript · HTML · CSS (EDIT)
+**Languages:** Java · C · JavaScript · HTML · CSS (EDIT)
 **Tools:** Git · GitHub · VS Code (EDIT)
 
 ---
@@ -28,6 +28,10 @@
 
 ### 📫 Contact
 
-<a href="mailto:kundugourabmaxima@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
+<div align="center">
+<a href="https://www.linkedin.com/in/gourab-kundu-computer-science-engineering/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/_gauravkundu__/"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" /></a>
+&nbsp;&nbsp;
+<a href="mailto:kundugourabmaxima@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
+</div>
