@@ -44,3 +44,27 @@
 &nbsp;&nbsp;
 <a href="mailto:kundugourabmaxima@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
 </div>
+### 👨‍💻 About Me
+
+I'm a Computer Science Engineering student at Presidency University, Bengaluru. I build projects in Java and web technologies, and I'm looking for internships and entry-level developer roles.
+
+**What I'm working on**
+- 🔹 Kinetic Campus
+- 🔹 Resume Plus
+- 🔹 Improving my Java and web projects
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,git,github,vscode" alt="tech stack" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravkundu03&bg_color=0A101F&color=22D3EE&line=A78BFA&point=F8FAFC&area=true&hide_border=true" alt="activity graph" />
+</p>
