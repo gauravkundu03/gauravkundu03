@@ -63,8 +63,4 @@ I'm a Computer Science Engineering student at Presidency University, Bengaluru. 
 
 ---
 
-### 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravkundu03&bg_color=0A101F&color=22D3EE&line=A78BFA&point=F8FAFC&area=true&hide_border=true" alt="activity graph" />
-</p>
