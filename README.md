@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gourab 👋</h1>
+<h1 align="center">Hi, I'm Gaurav 👋</h1>
 <h3 align="center">Computer Science Engineering Student · Presidency University, Bengaluru</h3>
 
 <p align="center">
@@ -13,6 +13,15 @@
 
 **Languages:** Java · C · JavaScript · HTML · CSS (EDIT)
 **Tools:** Git · GitHub · VS Code (EDIT)
+
+---
+
+<div align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=gauravkundu03&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="streak" />
+<br/>
+<img width="49%" src="https://github-readme-stats-one-pink-47.vercel.app/api?username=gauravkundu03&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="stats" />
+<img width="49%" src="https://github-readme-stats-one-pink-47.vercel.app/api/top-langs/?username=gauravkundu03&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="top langs" />
+</div>
 
 ---
 
