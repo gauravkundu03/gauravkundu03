@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Gaurav 👋</h1>
-<h3 align="center">Computer Science Engineering Student · Presidency University, Bengaluru</h3>
+
+
 
 <p align="center">
-  I build practical software and I'm constantly learning.<br/>
-  Currently working on: <b>Kinetic Campus &amp; Resume Plus</b><br/>
-  Open to: <b>internships and entry-level developer roles</b>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravkundu03/gauravkundu03/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravkundu03/gauravkundu03/main/light.svg">
+  <img alt="Gourab Kundu" src="https://raw.githubusercontent.com/gauravkundu03/gauravkundu03/main/light.svg">
+</picture>
 </p>
-
----
 
 ### 🛠 Tech Stack
 
